@@ -1,0 +1,47 @@
+{
+  "term": "Spring",
+  "year": "2006",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Science",
+      "Cognitive Science"
+    ],
+    [
+      "Science",
+      "Biology",
+      "Neuroscience"
+    ]
+  ],
+  "legacy_uid": "76029180-da8a-7d76-c416-5bc376ac1de4",
+  "instructors": {
+    "content": [
+      "6d211257-15fb-00a7-ce43-2f9cd13136f7"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "e7d56398-d22a-f64b-a6a4-e20d266e1f2a",
+    "website": "9-10-cognitive-neuroscience-spring-2006"
+  },
+  "course_title": "Cognitive Neuroscience",
+  "course_description": "This course explores the cognitive and neural processes that support attention, vision, language, motor control, navigation, and memory. It introduces basic neuroanatomy, functional imaging techniques, and behavioral measures of cognition, and discusses methods by which inferences about the brain bases of cognition are made. We consider evidence from patients with neurological diseases (Alzheimer's disease, Parkinson's disease, Huntington's disease, Balint's syndrome, amnesia, and focal lesions from stroke) and from normal human participants.\n",
+  "department_numbers": [
+    "9"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "9.10",
+  "course_image_thumbnail": {
+    "content": "b31c7486-5667-c868-f1e0-a0c47f1977c4",
+    "website": "9-10-cognitive-neuroscience-spring-2006"
+  },
+  "learning_resource_types": [
+    "Written Assignments"
+  ],
+  "site_uid": "ee89b68a-d0ec-4bc3-9031-5088a6728ddb",
+  "site_short_id": "9.10-spring-2006",
+  "site_url_path": "courses/9-10-cognitive-neuroscience-spring-2006",
+  "title": "Course Metadata"
+}
