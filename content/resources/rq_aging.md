@@ -4,6 +4,8 @@ description: Review questions on the effects of aging on memory.
 file: /courses/9-10-cognitive-neuroscience-spring-2006/74436ab14ade317457cb3e50320a498d_rq_aging.pdf
 file_size: 59586
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

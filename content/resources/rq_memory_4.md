@@ -4,6 +4,8 @@ description: Review questions on memory.
 file: /courses/9-10-cognitive-neuroscience-spring-2006/7190a41d89644841870ff35caea327d2_rq_memory_4.pdf
 file_size: 74724
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

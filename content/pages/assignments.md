@@ -3,6 +3,8 @@ content_type: page
 description: This section provides information on the assignments for the course,
   including a journal article presentation (10 slides), short synopses of journal
   articles presented by students, and an optional 10-15 page paper.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

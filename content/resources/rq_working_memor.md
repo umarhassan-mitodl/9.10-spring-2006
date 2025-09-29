@@ -4,6 +4,8 @@ description: Review questions on working memory in nonhuman primates.
 file: /courses/9-10-cognitive-neuroscience-spring-2006/0ae2f69ce12f8a5391b8a53f536adc0f_rq_working_memor.pdf
 file_size: 71783
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
